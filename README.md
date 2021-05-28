@@ -1,10 +1,22 @@
 # uniswap-bot
 🦄 Trading bot for Uniswap
 
+## Instalation and running
+
+To install run:
+
+`npm install`
+
+And to start script/bot run:
+
+`node start.js`
+
 ## Usage
 
 WETH - Token address
+
 factory and router - Uniswap factory and router
+
 recipient - Wallet address for recieving earnings
 
 ```
